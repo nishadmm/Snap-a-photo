@@ -1,6 +1,6 @@
 # Snap-a-photo
 ## Snap a photo using vanila Javascript
-  ##### Javascript code 
+  ##### Javascript code :medal_sports:
 ```javascript
 const video = document.getElementById("video"),
 button = document.querySelector(".btn"),
@@ -17,4 +17,4 @@ button.addEventListener("click", () => {
 context.drawImage(video, 0, 0, 480, 320)
 })
 ```
- ///////////////////////////////////////////////////////
+ 
